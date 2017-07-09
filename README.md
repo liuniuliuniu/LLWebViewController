@@ -1,5 +1,12 @@
 # LLWebViewController
 
+####示例图
+
+![LLWebViewController.gif](https://github.com/liuniuliuniu/LLWebViewController/blob/master/LLWebViewController.gif)
+
+
+
+
 
 ##此WebVIewVC包含的功能
 * 高低版本的适配（UIWebVIew&&WKWebView）
@@ -8,6 +15,7 @@
 * 网页下拉刷新
 * 网页加载进度显示
 * 请求异常占位图
+
 
 ##Hope
 * 代码使用过程中，发现任何问题，可以随时issue
